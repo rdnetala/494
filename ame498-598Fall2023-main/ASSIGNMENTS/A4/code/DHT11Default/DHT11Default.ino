@@ -8,8 +8,8 @@ TTGOClass *ttgo;
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "";
-const char* password = "";
+const char* ssid = "TP-Link_C394";
+const char* password = "15994189";
 
 const char* serverName = "http://54.167.8.247:1234/setValue";
 
